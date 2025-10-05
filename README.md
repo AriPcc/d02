@@ -1,2 +1,2 @@
 # d02
-Started assignment
+Completed assignment
